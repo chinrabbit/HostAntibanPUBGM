@@ -1,4 +1,4 @@
-! Title: HostAntibanPUBGM VNG
+! Title: AntiVNG
 ! Description: Filter help block send information data to tencent
 ! Last modified: 15 Apr 2020 06:06 UTC+7
 ! Version: 0.17.0.11808
