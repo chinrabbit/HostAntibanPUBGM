@@ -1,3 +1,9 @@
+! Title: AntibanPUBGMobileVNG
+! Last modified: 15 Apr 2020 05:05 UTC+7
+! Version: 0.17.0.11808
+! Blocked: 255 domains
+! The section containing the list contains all ad networks and tracking
+!
 app-measurement.com
 apm.wetest.qq.com
 a1845.dscb.akamai.net
