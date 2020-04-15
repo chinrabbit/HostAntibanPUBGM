@@ -2,7 +2,7 @@
 ! Description: Filter help block send information data to tencent
 ! Last modified: 15 Apr 2020 06:06 UTC+7
 ! Version: 0.17.0.11808
-! Blocked: 255 rules
+! Blocked: 256 rules
 ! Expires: Never
 ! Contact for work: +84799631991
 !
